@@ -1,0 +1,43 @@
+
+{
+  "id": "/for-you-society-fund/",
+  "name": "FOR YOU Society Fund V21",
+  "short_name": "FOR YOU Fund",
+  "description": "FOR YOU Society Fund member contributions, loans, records and reports.",
+  "lang": "en-IN",
+  "dir": "ltr",
+  "start_url": "/for-you-society-fund/",
+  "scope": "/for-you-society-fund/",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "any",
+  "theme_color": "#176B45",
+  "background_color": "#FFFFFF",
+  "categories": [
+    "finance",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
